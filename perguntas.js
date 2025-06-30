@@ -1,23 +1,23 @@
 criaCartao(
-    'corpo humano'
-    'Quantos ossos o corpo humano tem na fase adulta?',
+    'Ciências',
+    'Quantos ossos tem o corpo humano adulto?',
     '206 ossos'
 )
 
 criaCartao(
-    'história',
-    'Em que ano começou a Segunda Guerra?',
-    '1939'
+    'Geografia',
+    'Qual a capital do Brasil?',
+    'A capital do Brasil é brasília'
 )
 
 criaCartao(
-    'corpo humano',
-    'Qual é o maior órgão do corpo humano?',
-    'A pele'
+    'Geografia',
+    'Em que país ocorreu a queda do muro de Berlim?',
+    'Alemanha'
 )
 
 criaCartao(
-    'corpo humano',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'matemática',
+    'Qual o valor de x x+15=30?',
+    '15'
 )
